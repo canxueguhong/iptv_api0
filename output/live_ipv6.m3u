@@ -61,3 +61,57 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$IPV6
 #EXTINF:-1 tvg-id="1" tvg-name="云南卫视" tvg-logo="./pic/logos云南卫视.png" group-title="📡卫视频道",云南卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="南京信息" tvg-logo="./pic/logos南京信息.png" group-title="☘️江苏频道",南京信息
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3029680014_-204362700/ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="南京十八" tvg-logo="./pic/logos南京十八.png" group-title="☘️江苏频道",南京十八
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3568749588_-1882152959/ott.mobaibox.com/PLTV/4/224/3221227178/index.m3u8$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="南京娱乐" tvg-logo="./pic/logos南京娱乐.png" group-title="☘️江苏频道",南京娱乐
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3055198838_-954191684/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="南京少儿" tvg-logo="./pic/logos南京少儿.png" group-title="☘️江苏频道",南京少儿
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3425352611_209642410/ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="南京新闻综合" tvg-logo="./pic/logos南京新闻综合.png" group-title="☘️江苏频道",南京新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3127461495_-1929938189/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="宿迁公共" tvg-logo="./pic/logos宿迁公共.png" group-title="☘️江苏频道",宿迁公共
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw1756901329_237803346/ott.mobaibox.com/PLTV/4/224/3221226939/index.m3u8$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="常州公共" tvg-logo="./pic/logos常州公共.png" group-title="☘️江苏频道",常州公共
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4212693148_669088627/ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="常州生活" tvg-logo="./pic/logos常州生活.png" group-title="☘️江苏频道",常州生活
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3951544714_750576923/ott.mobaibox.com/PLTV/3/224/3221227902/index.m3u8$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="常州都市" tvg-logo="./pic/logos常州都市.png" group-title="☘️江苏频道",常州都市
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4002153568_939060722/ott.mobaibox.com/PLTV/3/224/3221227955/index.m3u8$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="无锡新闻综合" tvg-logo="./pic/logos无锡新闻综合.png" group-title="☘️江苏频道",无锡新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3152427644_1112931372/ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="./pic/logos江苏城市.png" group-title="☘️江苏频道",江苏城市
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw4264340981_727917420/ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="江苏影视" tvg-logo="./pic/logos江苏影视.png" group-title="☘️江苏频道",江苏影视
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw25164341_-1061241932/ott.mobaibox.com/PLTV/3/224/3221225937/index.m3u8$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="江苏教育" tvg-logo="./pic/logos江苏教育.png" group-title="☘️江苏频道",江苏教育
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw329009742_-1392321549/ott.mobaibox.com/PLTV/3/224/3221225923/index.m3u8$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="沛县新闻综合" tvg-logo="./pic/logos沛县新闻综合.png" group-title="☘️江苏频道",沛县新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw2694495294_-336953709/ott.mobaibox.com/PLTV/3/224/3221227678/index.m3u8$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="睢宁三农" tvg-logo="./pic/logos睢宁三农.png" group-title="☘️江苏频道",睢宁三农
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw3159943533_-631245355/ott.mobaibox.com/PLTV/3/224/3221227709/index.m3u8$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="睢宁生活教育" tvg-logo="./pic/logos睢宁生活教育.png" group-title="☘️江苏频道",睢宁生活教育
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw3266215445_-1224675069/ott.mobaibox.com/PLTV/3/224/3221227701/index.m3u8$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="睢宁综合" tvg-logo="./pic/logos睢宁综合.png" group-title="☘️江苏频道",睢宁综合
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw2711841019_318571591/ott.mobaibox.com/PLTV/3/224/3221227706/index.m3u8$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="睢宁资讯" tvg-logo="./pic/logos睢宁资讯.png" group-title="☘️江苏频道",睢宁资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw2785939281_491930384/ott.mobaibox.com/PLTV/3/224/3221227712/index.m3u8$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="贾汪旅游" tvg-logo="./pic/logos贾汪旅游.png" group-title="☘️江苏频道",贾汪旅游
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw3158177609_-1622861678/ott.mobaibox.com/PLTV/3/224/3221227389/index.m3u8$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="连云港公共" tvg-logo="./pic/logos连云港公共.png" group-title="☘️江苏频道",连云港公共
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw913656304_601285611/ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="连云港新闻综合" tvg-logo="./pic/logos连云港新闻综合.png" group-title="☘️江苏频道",连云港新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb0f]/wh7f454c46tw1598526246_-2101199601/ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="镇江新闻综合" tvg-logo="./pic/logos镇江新闻综合.png" group-title="☘️江苏频道",镇江新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw1100784708_827843552/ott.mobaibox.com/PLTV/3/224/3221228246/index.m3u8$IPV6•线路1
+#EXTINF:-1 tvg-id="2" tvg-name="镇江新闻综合" tvg-logo="./pic/logos镇江新闻综合.png" group-title="☘️江苏频道",镇江新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3949322656_1360725434/ott.mobaibox.com/PLTV/4/224/3221228246/index.m3u8$IPV6•线路2
+#EXTINF:-1 tvg-id="1" tvg-name="淘剧场" tvg-logo="./pic/logos淘剧场.png" group-title="🎬电影频道",淘剧场
+http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="淘娱乐" tvg-logo="./pic/logos淘娱乐.png" group-title="🎬电影频道",淘娱乐
+http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="NewTV惊悚悬疑" tvg-logo="./pic/logosNewTV惊悚悬疑.png" group-title="🎬电影频道",NewTV惊悚悬疑
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2482771376_951312812/ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8$IPV6
+#EXTINF:-1 tvg-id="1" tvg-name="五星体育" tvg-logo="./pic/logos五星体育.png" group-title="🏀体育频道",五星体育
+http://[2409:8087:5e00:24::29]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281$IPV6
