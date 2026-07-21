@@ -98,7 +98,7 @@ source_urls = [
     "https://cloud.7so.top/f/yr7BHL/HKTV.txt",
     "https://gitee.com/main-stream/tv/raw/master/BOSS.json",
     "https://raw.githubusercontent.com/alantang1977/iptv-auto/refs/heads/main/my.txt",
-    "",
+    "https://fastgit.cc/https://raw.githubusercontent.com/iTCoffe/Collect-iTV/main/Internet_iTV.m3u",
     "https://gitee.com/alexkw/app/raw/master/kgk.txt",
     "https://d.kstore.dev/download/15114/HKTV.txt",
     "",
