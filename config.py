@@ -119,7 +119,7 @@ source_urls = [
     "https://l.gmbbk.com/upload/39183918.txt",
     "http://rihou.cc:555/gggg.nzk",
     "http://1.94.31.214/live/livelite.txt",
-    "",
+    "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
     "",
     "",
     "",
