@@ -92,7 +92,7 @@ source_urls = [
     "https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit",
     "http://ge.html-5.me//ii/黄蚂蚁先锋推流源.txt",
     "https://www.985pan.com/down.php/bf5e9607ff407fcdd71f63928ea5bc79.txt",
-    "",
+    "http://iptv.ruyitv.cc/m3u/tv.txt",
     "",
     "https://cloud.7so.top/f/xv80ux/天浪.txt",
     "https://cloud.7so.top/f/yr7BHL/HKTV.txt",
