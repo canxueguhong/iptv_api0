@@ -89,8 +89,6 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8$IPV6•线路5
 #EXTINF:-1 tvg-id="1" tvg-name="云南卫视" tvg-logo="./pic/logos云南卫视.png" group-title="📡卫视频道",云南卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$IPV6
-#EXTINF:-1 tvg-id="1" tvg-name="风云足球" tvg-logo="./pic/logos风云足球.png" group-title="💰付费频道",风云足球
-http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8$IPV6
 #EXTINF:-1 tvg-id="1" tvg-name="南京信息" tvg-logo="./pic/logos南京信息.png" group-title="☘️江苏频道",南京信息
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3029680014_-204362700/ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8$IPV6
 #EXTINF:-1 tvg-id="1" tvg-name="南京十八" tvg-logo="./pic/logos南京十八.png" group-title="☘️江苏频道",南京十八
@@ -161,6 +159,8 @@ http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8$IPV6
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="睛彩广场舞" tvg-logo="./pic/logos睛彩广场舞.png" group-title="🏀体育频道",睛彩广场舞
 http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$IPV6•线路2
+#EXTINF:-1 tvg-id="3" tvg-name="睛彩广场舞" tvg-logo="./pic/logos睛彩广场舞.png" group-title="🏀体育频道",睛彩广场舞
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226139/index.m3u8$IPV6•线路3
 #EXTINF:-1 tvg-id="1" tvg-name="卡酷动画" tvg-logo="./pic/logos卡酷动画.png" group-title="🪁动画频道",卡酷动画
 http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="卡酷动画" tvg-logo="./pic/logos卡酷动画.png" group-title="🪁动画频道",卡酷动画
