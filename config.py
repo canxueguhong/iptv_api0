@@ -104,7 +104,7 @@ source_urls = [
     "http://rihou.cc:567/gggg.nzk",
     "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
     "https://live.445569.xyz/live.m3u",
-    "",
+    "https://gcore.jsdelivr.net/gh/yuanzl77/IPTV/live.m3u",
     "",
     "https://raw.githubusercontent.com/iodata999/frxz751113-IPTVzb1/refs/heads/main/结果.m3u",
     "https://raw.githubusercontent.com/alantang1977/jtv/refs/heads/main/网络收集.txt",
