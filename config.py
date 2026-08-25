@@ -5,6 +5,47 @@ ip_version_priority = "ipv4"
 
 # 直播源URL列表
 source_urls = [
+    "http://183.131.83.37:40782/屿风眠星辞雾听澜书禾念安知夏遇秋寻冬观月.txt",
+
+"http://47.120.41.246:8025/vip/jar/zb.php",
+
+"https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+
+"https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
+
+"http://38.75.136.137:88/api/tvlist.php",
+
+"https://gitee.com/yuan301/tv/raw/master/A/z_v.png",
+
+"http://wangziduoqing.com/yuan/zb.txt",
+
+"https://gitee.com/main-stream/tv/raw/master/BOSS.json",
+
+"http://mg.cttv.vip",
+
+"https://pub.tgyes.eu.org/555.txt",
+
+"https://pub.tgyes.eu.org/444.txt",
+
+"http://mg.cttv.vip",
+
+"https://ghfile.geekertao.top/https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt",
+
+"https://cnb.cool/ms511/PG/-/git/raw/main/sub/live.txt",
+
+"https://ds65.tv1288.xyz",
+
+"https://live.hacks.tools/tv/iptv4.txt",
+
+"https://live.zbds.top/tv/iptv4.txt",
+
+"https://live.zbds.top/tv/iptv4.m3u",
+
+"https://l.gmbbk.com/upload/61596159.txt",
+
+"http://iptv.4666888.xyz/FYTV.m3u",
+
+
     "https://raw.giteeusercontent.com/miaowancun/tv/raw/master/mw.txt?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJtdy50eHQiLCJ1aWQiOjE2Mzc1Mjc0LCJwaWQiOjQ2MDY4MTE4LCJzdG8iOiJnaXQtc2hhcmRpbmctc3RvLTEwdC0wMTgiLCJycCI6InJlcG9zL2E4LzRmL2E4NGY3MmU1YWUxOTdiOGVhODM4YTEwNzA4YjU5YjJkYjM1NTdkOWNjZGUyM2RjYmJjMjRlYmMwYjZmMGNjMmQuZ2l0IiwiaXNwIjp0cnVlLCJleHBpcmVfYXQiOjE3ODE0OTU0MDB9&signature=RBX5d-CytYw7kxQKsGVq04dGx0sl08Pm9-JdJTNgVEY",
     "https://gitee.com/szwxk/watch-television/raw/master/wxk.m3u",
     "https://raw.githubusercontent.com/zhaiyaa/iptv-api/refs/heads/master/output/ipv4/result.m3u",
