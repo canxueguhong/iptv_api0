@@ -210,4 +210,4 @@ TEST_TIMEOUT = 8
 # 测速线程池最大工作线程数折中
 MAX_WORKERS = 10
 # 单个频道单协议（IPv4/IPv6）最多保留的线路数量（补回缺失配置）
-MAX_CHANNEL_SOURCES = 15
+#MAX_CHANNEL_SOURCES = 15
