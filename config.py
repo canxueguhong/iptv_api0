@@ -147,7 +147,8 @@ source_urls = [
     "http://4gtv.cnlive.club/4gtv.m3u",
     "https://4gtv.tvbjack.ggff.net",
     "http://4gtv.158.qzz.io/4gtv.m3u",
-    
+    "https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt",
+"https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt",                "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt",
     "https://m3u.ibert.me/fmml_ipv6.m3u"
 ]
 
